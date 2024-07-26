@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "4.17.15",         
-    "express": "4.17.1",        
+    "express": "4.19.2",        
     "mongoose": "5.7.5",       
     "jquery": "3.4.1",          
     "handlebars": "4.0.12",     
