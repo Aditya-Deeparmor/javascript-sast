@@ -15,7 +15,7 @@
     "mongoose": "5.7.5",       
     "jquery": "3.4.1",          
     "handlebars": "4.0.12",     
-    "moment": "2.19.3",         
+    "moment": "2.29.4",         
     "marked": "0.3.6",          
     "minimist": "0.0.8",        
     "kind-of": "6.0.2",         
